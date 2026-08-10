@@ -1,16 +1,14 @@
-# mypro
+# NotePal 📝
 
-A new Flutter project.
+**NotePal** is a simple, lightweight CRUD (Create, Read, Update, Delete) application built with Java to help users easily manage and organize their notes.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Create:** Add new notes with titles and content.
+- **Read:** View a list of all saved notes clearly.
+- **Update:** Edit and modify existing notes anytime.
+- **Delete:** Remove unwanted notes from your collection.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
